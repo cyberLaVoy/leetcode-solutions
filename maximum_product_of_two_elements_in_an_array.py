@@ -23,5 +23,4 @@ class Solution:
                     # Update the maximum product if the calculated product is greater
                     if product > max_product:
                         max_product = product
-
         return max_product
